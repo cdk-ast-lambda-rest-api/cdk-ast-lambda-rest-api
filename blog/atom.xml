@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cdk-ast-lambda-rest-api.github.io/blog</id>
-    <title>CDK Ast Lambda Rest-API  Blog</title>
+    <title>Calra Blog</title>
     <updated>2024-05-17T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cdk-ast-lambda-rest-api.github.io/blog"/>
-    <subtitle>CDK Ast Lambda Rest-API  Blog</subtitle>
+    <subtitle>Calra Blog</subtitle>
     <icon>https://cdk-ast-lambda-rest-api.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
